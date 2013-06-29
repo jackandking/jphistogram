@@ -1,0 +1,4 @@
+cron:
+- description: daily job
+  url: /cron/daily
+  schedule: every day 20:30
